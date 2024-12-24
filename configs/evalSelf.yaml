@@ -1,0 +1,13 @@
+# @package _global_
+
+defaults:
+  - _self_
+  - train # overrides things above using train's config
+
+
+task_name: "eval"
+
+tags: ["eval"]
+
+# passing checkpoint path is necessary for evaluation
+ckpt_path: ???
