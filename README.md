@@ -55,6 +55,8 @@ conda activate BCI
 ## Dataset, Model Weights
 We used dataset follows the Data availability Section of [https://github.com/dongyangli-del/EEG_Image_decode](https://github.com/dongyangli-del/EEG_Image_decode). Please follow their README to download the EEG dataset, thanks to their prior work!
 
+Our reconstruction results and the original images can be downloaded from this link: https://drive.google.com/file/d/1PfuXZo8JQ7SYsSsYpsUtswdq5gmWKLRU/view?usp=drive_link
+
 Regarding pretrained models, we have used:
 ```
 SDXL-Turbo：https://huggingface.co/stabilityai/sdxl-turbo
