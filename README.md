@@ -110,11 +110,14 @@ Finally, thanks to Dr. Jili Xia for her help with this work.
 Hope this code is helpful. I would appreciate you citing us in your paper. 😊
 
 ```
-@article{zhang2024cognitioncapturer,
-  title={CognitionCapturer: Decoding Visual Stimuli From Human EEG Signal With Multimodal Information},
+@inproceedings{zhang2025cognitioncapturer,
+  title={Cognitioncapturer: Decoding visual stimuli from human eeg signal with multimodal information},
   author={Zhang, Kaifan and He, Lihuo and Jiang, Xin and Lu, Wen and Wang, Di and Gao, Xinbo},
-  journal={arXiv preprint arXiv:2412.10489},
-  year={2024}
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={39},
+  number={13},
+  pages={14486--14493},
+  year={2025}
 }
 ```
 
